@@ -11,4 +11,3 @@ def my_collect(array)
     "This block should not run!"
   end
 end
-
